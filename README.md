@@ -16,3 +16,4 @@ Possible KPIs include (to get you started, but not limited to):
 - The average speed of overall calls is 55 seconds with 2.76 value as the customer satisfaction rating
 - Agents received high volume of calls between 11am to 1pm and between 3:00pm to 4pm
 - Number of calls received in the call center has been declining over the months
+- Agent Dan has the overall best customer satisfaction rating 
